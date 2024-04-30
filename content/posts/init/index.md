@@ -6,4 +6,4 @@ topics = ['Living']
 showHero = true
 +++
 
-After many years of dreaming about it, today is my first day living (albeit temporarily) in Japan!
+After many years of dreaming about it, today is my first day living (albeit temporarily) in Japan! :-)
