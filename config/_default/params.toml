@@ -1,0 +1,7 @@
+colorScheme = "blowfish"
+logo = "logo.png"
+
+[homepage]
+layout = "background"
+#homepageImage = "logo.png"
+showRecent = true
