@@ -1,7 +1,0 @@
-colorScheme = "blowfish"
-logo = "logo.jpg"
-
-[homepage]
-layout = "background"
-#homepageImage = "logo.jpg"
-showRecent = true

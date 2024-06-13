@@ -1,7 +1,8 @@
 baseURL = 'https://www.ysobel.com/'
 languageCode = 'en-gb'
 title = 'Ysobel in Japan'
+theme = 'soho'
 
-[author]
-name = "Ysobel"
-headline = "A gaijin spends two months in Japan"
+[params]
+author = "Ysobel"
+profilePicture = "logo.jpg"
