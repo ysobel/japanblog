@@ -1,9 +1,9 @@
 +++
 title = "I'm Here!"
-date = 2024-04-30T10:14:19Z
+date = 2024-05-25T12:00:00+08:00
 draft = false
 topics = ['Living']
 showHero = true
 +++
 
-After many years of dreaming about it, today is my first day living (albeit temporarily) in Japan! Edited from phone.
+I have arrived.

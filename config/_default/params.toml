@@ -1,7 +1,7 @@
 colorScheme = "blowfish"
-logo = "logo.png"
+logo = "logo.jpg"
 
 [homepage]
 layout = "background"
-#homepageImage = "logo.png"
+#homepageImage = "logo.jpg"
 showRecent = true
